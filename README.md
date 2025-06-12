@@ -6,7 +6,7 @@
 ### Supplementary Materials for ICMC 2025
 [**Demo Video**](https://drive.google.com/file/d/1JUpkNOCY-z0gEb9939T8TpelWigX1Xhu/view?usp=sharing)
 
-[**Google Slides**](https://docs.google.com/presentation/d/1JoClaxOVBaUwS-ZYQ72lxEkL2JP6y_NJhi6nC3WdHIo/edit?usp=sharing)
+[**Presentation Slides**](https://docs.google.com/presentation/d/1JoClaxOVBaUwS-ZYQ72lxEkL2JP6y_NJhi6nC3WdHIo/edit?usp=sharing)
 
 ---
 
