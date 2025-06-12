@@ -12,6 +12,7 @@
 
 ### Contact
 - **Yonghyun Kim**
+  
   *Email*: [yonghyun.kim@gatech.edu](mailto:yonghyun.kim@gatech.edu)
   
   *Homepage*: [yonghyunk1m.com](https://yonghyunk1m.com)
