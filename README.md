@@ -4,7 +4,7 @@
 
 ---
 ### Supplementary Materials
-[**Demo Video**](https://drive.google.com/file/d/1JUpkNOCY-z0gEb9939T8TpelWigX1Xhu/view?usp=sharing){:target="_blank"}
+[**Demo Video**](https://drive.google.com/file/d/1JUpkNOCY-z0gEb9939T8TpelWigX1Xhu/view?usp=sharing)
 
 [**Presentation Slides**](https://docs.google.com/presentation/d/1JoClaxOVBaUwS-ZYQ72lxEkL2JP6y_NJhi6nC3WdHIo/edit?usp=sharing)
 
@@ -13,6 +13,6 @@
 ### Contact
 - **Yonghyun Kim**
   
-  *Email*: [yonghyun.kim@gatech.edu](mailto:yonghyun.kim@gatech.edu){:target="_blank"}
+  *Email*: [yonghyun.kim@gatech.edu](mailto:yonghyun.kim@gatech.edu)
   
-  *Homepage*: [yonghyunk1m.com](https://yonghyunk1m.com){:target="_blank"}
+  *Homepage*: [yonghyunk1m.com](https://yonghyunk1m.com)
