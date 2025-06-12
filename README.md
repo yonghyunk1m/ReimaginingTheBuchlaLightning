@@ -1,6 +1,5 @@
 # NeoLightning: A Modern Reimagination of Gesture-Based Sound Design
 
-### Citation
 > **Y. Kim, S. Park, M. Parker, D. Seu and A. Smith**, "NeoLightning: A Modern Reimagination of Gesture-Based Sound Design," Proceedings of the 50th International Computer Music Conference (ICMC), Boston, USA, 2025. [[arXiv](https://arxiv.org/abs/2505.10686)]
 
 ---
